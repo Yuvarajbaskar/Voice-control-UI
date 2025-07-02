@@ -1,4 +1,5 @@
 🎙️ Voice Controlled Background Changer
+
 A simple and interactive web UI that changes the background color based on voice commands using the Web Speech API.
 
 ✨ Features
@@ -38,18 +39,11 @@ open index.html in your browser
 
 
 🎯 Example Voice Commands
+
 “Change background to red”
 
 “Set color to green”
 
 “Make it yellow”
 
-📂 File Structure
-pgsql
-Copy
-Edit
-voice-control-bg/
-│
-├── index.html
-├── style.css
-└── script.js
+
