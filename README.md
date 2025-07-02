@@ -3,6 +3,7 @@
 A simple and interactive web UI that changes the background color based on voice commands using the Web Speech API.
 
 ✨ Features
+
  Voice recognition with natural commands (e.g., “change background to red”)
 
  Dynamic background color changes
@@ -12,6 +13,7 @@ A simple and interactive web UI that changes the background color based on voice
  Smart color name detection (supports common color names)
 
 🛠️ Tech Stack
+
 HTML5
 
 CSS3
@@ -21,6 +23,7 @@ JavaScript
 Web Speech API
 
 🚀 How It Works
+
 Click the Start Listening button.
 
 Say a color name (e.g., "blue", "green", "orange").
